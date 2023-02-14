@@ -1,0 +1,9 @@
+[
+    {
+        "name": "MCUXpresso GNU Toolchain",
+        "toolchainFile": "armgcc.cmake",
+        "environmentVariables": {
+            "ARMGCC_DIR": "/usr"
+        }
+    }
+]

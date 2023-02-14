@@ -1,0 +1,4 @@
+/board/*.bak
+/build
+/debug
+/release

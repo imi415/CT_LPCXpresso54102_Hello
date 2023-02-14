@@ -1,0 +1,17 @@
+{
+    "buildType": {
+        "default": "debug",
+        "choices": {
+            "debug": {
+                "short": "Debug",
+                "long": "Debug build, optimizations disabled",
+                "buildType": "debug"
+            },
+            "release": {
+                "short": "Release",
+                "long": "Release build, symbols stripped, optimizations enabled",
+                "buildType": "release"
+            }
+        }
+    }
+}
